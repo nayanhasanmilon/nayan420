@@ -22,4 +22,4 @@
 
 ➡️ cd nayan420
 
-➡️ python2 nayan420.py
+➡️ python nayan420.py
